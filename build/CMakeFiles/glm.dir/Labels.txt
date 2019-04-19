@@ -1,0 +1,13 @@
+# Target labels
+ glm
+# Source files and their labels
+/home/psy/Documentos/GitProjects/icmc-cg/build/CMakeFiles/glm
+/home/psy/Documentos/GitProjects/icmc-cg/build/CMakeFiles/glm.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/CMakeFiles/glm-complete.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-install.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-mkdir.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-download.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-update.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-patch.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-configure.rule
+/home/psy/Documentos/GitProjects/icmc-cg/build/glm/src/glm-stamp/glm-build.rule

@@ -1,0 +1,59 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_02bbc/fast"
+make[3]: Entering directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_02bbc.dir/build.make CMakeFiles/cmTC_02bbc.dir/build
+make[4]: Entering directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_02bbc.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_02bbc.dir/CheckSymbolExists.c.o   -c /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_02bbc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_02bbc.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_02bbc.dir/CheckSymbolExists.c.o  -o cmTC_02bbc 
+CMakeFiles/cmTC_02bbc.dir/CheckSymbolExists.c.o: Na função "main":
+CheckSymbolExists.c:(.text+0x1b): referência não definida para "pthread_create"
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_02bbc.dir/build.make:97: recipe for target 'cmTC_02bbc' failed
+make[4]: *** [cmTC_02bbc] Error 1
+make[4]: Leaving directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_02bbc/fast' failed
+make[3]: *** [cmTC_02bbc/fast] Error 2
+make[3]: Leaving directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+
+File /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_94efc/fast"
+make[3]: Entering directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_94efc.dir/build.make CMakeFiles/cmTC_94efc.dir/build
+make[4]: Entering directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_94efc.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_94efc.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_94efc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_94efc.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_94efc.dir/CheckFunctionExists.c.o  -o cmTC_94efc -lpthreads 
+/usr/bin/ld: não foi possível localizar -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_94efc.dir/build.make:97: recipe for target 'cmTC_94efc' failed
+make[4]: *** [cmTC_94efc] Error 1
+make[4]: Leaving directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_94efc/fast' failed
+make[3]: *** [cmTC_94efc/fast] Error 2
+make[3]: Leaving directory '/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+
+

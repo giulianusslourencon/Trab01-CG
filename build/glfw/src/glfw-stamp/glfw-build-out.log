@@ -1,0 +1,18 @@
+Scanning dependencies of target glfw
+[  6%] Building C object src/CMakeFiles/glfw.dir/context.c.o
+[ 12%] Building C object src/CMakeFiles/glfw.dir/init.c.o
+[ 18%] Building C object src/CMakeFiles/glfw.dir/input.c.o
+[ 25%] Building C object src/CMakeFiles/glfw.dir/monitor.c.o
+[ 31%] Building C object src/CMakeFiles/glfw.dir/vulkan.c.o
+[ 37%] Building C object src/CMakeFiles/glfw.dir/window.c.o
+[ 43%] Building C object src/CMakeFiles/glfw.dir/x11_init.c.o
+[ 50%] Building C object src/CMakeFiles/glfw.dir/x11_monitor.c.o
+[ 56%] Building C object src/CMakeFiles/glfw.dir/x11_window.c.o
+[ 62%] Building C object src/CMakeFiles/glfw.dir/xkb_unicode.c.o
+[ 68%] Building C object src/CMakeFiles/glfw.dir/linux_joystick.c.o
+[ 75%] Building C object src/CMakeFiles/glfw.dir/posix_time.c.o
+[ 81%] Building C object src/CMakeFiles/glfw.dir/posix_tls.c.o
+[ 87%] Building C object src/CMakeFiles/glfw.dir/glx_context.c.o
+[ 93%] Building C object src/CMakeFiles/glfw.dir/egl_context.c.o
+[100%] Linking C static library libglfw3.a
+[100%] Built target glfw

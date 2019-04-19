@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/CMakeFiles/glfw"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/CMakeFiles/glfw.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/CMakeFiles/glfw-complete.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-install.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-mkdir.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-download.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-update.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-patch.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-configure.rule"
+		},
+		{
+			"file" : "/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/src/glfw-stamp/glfw-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw"
+		],
+		"name" : "glfw"
+	}
+}

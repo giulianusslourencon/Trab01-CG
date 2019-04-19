@@ -1,0 +1,12 @@
+[100%] Built target glfw
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/include/GLFW
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/include/GLFW/glfw3native.h
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/include/GLFW/glfw3.h
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Config.cmake
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Targets.cmake
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Targets-release.cmake
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/pkgconfig/glfw3.pc
+-- Installing: /home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/libglfw3.a
