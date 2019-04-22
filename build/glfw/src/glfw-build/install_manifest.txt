@@ -1,8 +1,0 @@
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/include/GLFW/glfw3native.h
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/include/GLFW/glfw3.h
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Config.cmake
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3ConfigVersion.cmake
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Targets.cmake
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Targets-release.cmake
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/pkgconfig/glfw3.pc
-/home/psy/Documentos/GitProjects/icmc-cg/build/glfw/lib/libglfw3.a

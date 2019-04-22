@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcg2019c.a  CMakeFiles/cg2019c.dir/cg_window.c.o
-/usr/bin/ranlib libcg2019c.a
