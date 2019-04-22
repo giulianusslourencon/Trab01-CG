@@ -2,9 +2,9 @@
 Trabalho 1 da disciplina de Computação Gráfica - SCC0250, oferecida no primeiro semestre do ano de 2019 no ICMC - Instituto de Ciências Matemáticas e de Computação da USP - Universidade de São Paulo, campus São Carlos.
 
 ## Contribuidores
-Gabriel Alfonso Nascimento Salgueiro<br>
-Giuliano Lourençon<br>
-Pedro Francisco Darela Neto
+Gabriel Alfonso Nascimento Salgueiro - 10284368<br>
+Giuliano Lourençon - 10295590<br>
+Pedro Francisco Darela Neto - 10295624
 
 ## Proposta
 Implementar uma aplicação gráfica interativa 2D contendo um modelo simples de catavento composto por triângulos. O catavento deve girar em torno do próprio eixo seguindo uma velocidade angular pré-determinada pelo desenvolvedor. As estruturas de matrizes a serem utilizadas e todas as transformações necessárias devem ser implementadas, ou seja, sem utilização de bibliotecas auxiliares para manipulação de matrizes.
