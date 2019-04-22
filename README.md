@@ -23,6 +23,6 @@ As seguintes ações interativas devem estar presentes no projeto:
 
 ## Compilação e Execução
 ### Linux
-Para a compilação no Linux, é necessário ter instalado as bibliotecas _libglfw3-dev_, _xorg-dev_ e _libx11-dev_, que são dependências da GLFW; O compilador da linguagem C++, _g++_; O _git_ e o _makefile_.<br>
+Para a compilação no Linux, é necessário ter instalado as bibliotecas _libgl1-mesa-dev_, _libglfw3-dev_, _xorg-dev_ e _libx11-dev_, que são dependências da GLFW; O compilador da linguagem C++, _g++_; O _git_ e o _makefile_.<br>
 No terminal, vá para o diretório raiz do projeto (o qual se localiza o arquivo _Makefile_) e digite o comando "make" (sem aspas), para compilar.<br>
 Para a execução do programa, digite "make run" (sem aspas) após a compilação.
